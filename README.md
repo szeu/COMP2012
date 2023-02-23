@@ -1,4 +1,4 @@
-# COMP2012
+# COMP2012 Object-Oriented Programming and Data Structures
 COMP2012 Assignment:
 1. Calculator to process from char array --- pa1
 2. Brass Game (Board Game) --- pa2
